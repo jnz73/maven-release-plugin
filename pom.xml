@@ -4,7 +4,7 @@
 
     <groupId>com.gianni</groupId>
     <artifactId>maven-release-plugin</artifactId>
-    <version>1.2-SNAPSHOT</version>
+    <version>1.2</version>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -21,7 +21,7 @@
             scm:git:https://github.com/jnz73/maven-release-plugin.git
         </developerConnection>
         <url>https://github.com/jnz73/maven-release-plugin</url>
-      <tag>HEAD</tag>
+      <tag>maven-release-plugin-1.2</tag>
   </scm>
 
     <dependencies>
